@@ -1,0 +1,5 @@
+price_total,price_year,pct_yes,pct_maybe,pct_no,n,wtp_weighted,n_yes,degree,source
+510000,127500,0.491,0.333,0.176,108,0.6575,53,bachelor,abit_survey_pdf
+540000,135000,0.343,0.324,0.333,108,0.505,37,bachelor,abit_survey_pdf
+590000,147500,0.176,0.333,0.491,108,0.3425,19,bachelor,abit_survey_pdf
+610000,152500,0.139,0.278,0.583,108,0.278,15,bachelor,abit_survey_pdf
